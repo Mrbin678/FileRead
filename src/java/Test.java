@@ -8,7 +8,7 @@
 //try-catch的快捷键 ：在需要包裹的代码所在行输入，ctrl+alt+t ,选择try catch选项即可
 public class Test {
     public static void main(String[] args) {
-        System.out.println("hello world！！123");
+        System.out.println("hello world");
     }
 
 }
